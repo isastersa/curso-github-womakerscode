@@ -15,3 +15,7 @@ Adiciona todos os arquivos para a esteira de commit
 ### git add [caminho do arquivo]
 
 Adiciona um arquivo em específico para a esteira de commit
+
+### git commit
+
+Registra as mudanças no repositório com uma mensagem que descreve essas alterações. 
